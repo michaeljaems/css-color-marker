@@ -1,0 +1,23 @@
+{
+  "name": "color-marker",
+  "version": "1.0.0",
+  "description": "learning css with freeCodeCamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaeljaems/css-color-marker.git"
+  },
+  "keywords": [
+    "css",
+    "html"
+  ],
+  "author": "Michael A. Momo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaeljaems/css-color-marker/issues"
+  },
+  "homepage": "https://github.com/michaeljaems/css-color-marker#readme"
+}
